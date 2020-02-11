@@ -3,3 +3,9 @@ email:
 user: user.iwsstudent@gmail.com
 pw:   iwsstudent
 
+
+NodeRed:
+ip:   34.89.240.62
+port: 1881-2000
+user: user
+pw:   iwsstudent
