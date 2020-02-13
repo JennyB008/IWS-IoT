@@ -15,7 +15,7 @@ Beobachtet einkommende Nachrichten im Netzwerkserver
 
 ## Geräte
 ### Decentlab
-![GitHub Logo](/images/lora_devices/ambiance_decentlab.jpeg)
+<img src="/images/lora_devices/ambiance_decentlab.jpeg" alt="Ambiance Device von Decentlab" width="200"/>
 
 Bindet den Decentlab Ambiance Monitor in den Loriot Netzwerkserver ein. Der Verbindungsaufbau soll mittels OTAA erfolgen.
 EUI:	70B3D57BA0000DE2 
