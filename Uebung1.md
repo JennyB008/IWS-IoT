@@ -33,21 +33,20 @@ Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
 * Application EUI: 70B3D57ED00006B2
 * Application Key: 41341EB0C5631CD5F0AECB4D4EE25586
 
-Nun muss das Device noch neu gestartet werden. Ruft hierfür einen von uns!
+Nun muss das Device noch neu gestartet werden. Ruft hierfür einen von uns.
 
 <br/>
 ### Elsys Elsys CO2
 <img src="/images/lora_devices/ambiance_elsys.jpeg" width="200"/>
 <br/>
 Einer von uns wird euch betreuen.
-
-
+<br/>
 ### Elsys EMS Door
 <img src="/images/lora_devices/door_elsys.jpeg" width="200"/>
 <br/>
 Einer von uns wird euch betreuen.
 Beobachtet einkommende Nachrichten im Netzwerkserver
-
+<br/>
 ### Parametric People Counter
 <img src="/images/lora_devices/people_counter.jpeg" width="200"/>
 <br/>
