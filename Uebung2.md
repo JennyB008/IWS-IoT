@@ -3,10 +3,10 @@
 
 ### Zugangsdaten Node-RED
 
-- ip:   34.89.240.62
-- port: siehe Zettel
-- user: user
-- pw:   iwsstudent
+- IP:   34.89.240.62
+- Port: siehe Zettel
+- User: user
+- Password:   iwsstudent
 
 ### 1. Hello World
 
