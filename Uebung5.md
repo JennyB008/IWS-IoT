@@ -8,6 +8,8 @@
 #### 2. Filtern und Decodieren
 * Filterert die Daten nach dem Personenzähler und cmd='gw'.
 * Untersucht den Payload und decodiert diesen.
+![](/images/peopleCounterPayload.jpeg)
+Die Daten (msg.payload.data) liegen als HEX-String vor. Diese müssen an bestimmten Stellen abgeschnitten werden und in das Binärsystem geparst werden. Die Javascript Methode parseInt() wird euch dabei helfen.
 * Sobald ihr den Personenzähler erfolgreich decodiert habt, erhaltet ihr auf Anfrage die Decoder für alle anderen Devices.
  
 #### 3. Erweitertere Visualisierung
