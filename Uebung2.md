@@ -1,6 +1,13 @@
 
 # Übung 2 - Node-RED Einführung
 
+### Zugangsdaten Node-RED
+
+- ip:   34.89.240.62
+- port: siehe Zettel
+- user: user
+- pw:   iwsstudent
+
 ### 1. Hello World
 
 Baue den vorgeführten Hello-World Flow auf deiner Node-RED Instanz nach.
