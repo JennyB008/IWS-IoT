@@ -47,7 +47,6 @@ Einer von uns wird euch betreuen.
 <img src="/images/lora_devices/door_elsys.jpeg" width="200"/>
 <br/>
 Einer von uns wird euch betreuen.
-Beobachtet einkommende Nachrichten im Netzwerkserver
 <br/>
 
 ### Parametric People Counter
