@@ -9,7 +9,7 @@ Netzwerkserver: [LorIoT](https://mvv.loriot.io)
 Email: 1971216@stud.hs-mannheim.de
 Passwort: iwsWS19/20
  
-1. Bindet ein Gerät in die Applikation 'workshop' ein. Der Netzwerkserver stellt eine Eingabemaske zur Verfügung, um Geräte anzumelden. Alle Geräte sollen ihre Verbindung per OTAA aufnehmen.
+Bindet ein Gerät in die Applikation 'workshop' ein. Der Netzwerkserver stellt eine Eingabemaske zur Verfügung, um Geräte anzumelden. Alle Geräte sollen ihre Verbindung per OTAA aufnehmen.
 <br/>
 <br/>
 Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
@@ -21,7 +21,7 @@ Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
 
 ![](/images/loriot_otaa.png)
 
-2. Beobachtet eingehende Nachrichten
+Beobachtet eingehende Nachrichten, nachdem ihr das Device eingebunden habt.
 
 ## Geräte
 ### Decentlab
@@ -36,17 +36,20 @@ Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
 Nun muss das Device noch neu gestartet werden. Ruft hierfür einen von uns.
 
 <br/>
+
 ### Elsys Elsys CO2
 <img src="/images/lora_devices/ambiance_elsys.jpeg" width="200"/>
 <br/>
 Einer von uns wird euch betreuen.
 <br/>
+
 ### Elsys EMS Door
 <img src="/images/lora_devices/door_elsys.jpeg" width="200"/>
 <br/>
 Einer von uns wird euch betreuen.
 Beobachtet einkommende Nachrichten im Netzwerkserver
 <br/>
+
 ### Parametric People Counter
 <img src="/images/lora_devices/people_counter.jpeg" width="200"/>
 <br/>
