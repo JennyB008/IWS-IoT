@@ -24,24 +24,39 @@ Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
 ## Geräte
 ### Decentlab
 <img src="/images/lora_devices/ambiance_decentlab.jpeg" width="200"/>
+<br/>
 
-Bindet den Decentlab Ambiance Monitor in den Loriot Netzwerkserver ein. Der Verbindungsaufbau soll mittels OTAA erfolgen.
-EUI:	70B3D57BA0000DE2 
-AppEUI:	70B3D57ED00006B2
-AppKey:	41341EB0C5631CD5F0AECB4D4EE25586
+* Title: Decentlab Ambiance
+* Device EUI: 70B3D57BA0000DE2
+* Application EUI: 70B3D57ED00006B2
+* Application Key: 41341EB0C5631CD5F0AECB4D4EE25586
+
+Nun muss das Device noch neu gestartet werden. Ruft hierfür einen von uns!
+
 <br/>
 Beobachtet einkommende Nachrichten im Netzwerkserver
 ### Elsys Elsys CO2
 <img src="/images/lora_devices/ambiance_elsys.jpeg" width="200"/>
 <br/>
+Einer von uns wird euch betreuen.
+
 Beobachtet einkommende Nachrichten im Netzwerkserver
+
 
 ### Elsys EMS Door
 <img src="/images/lora_devices/door_elsys.jpeg" width="200"/>
 <br/>
+Einer von uns wird euch betreuen.
 Beobachtet einkommende Nachrichten im Netzwerkserver
 
 ### Parametric People Counter
 <img src="/images/lora_devices/people_counter.jpeg" width="200"/>
 <br/>
+
+* Title: Parametric Peoplecounter
+* Device EUI: 333437394E37880A
+* Application EUI: 333437394E378804
+* Application Key: 333437394E378804333437394E378804
+
+Das Device startet neu, nachdem es ans Netz angeschlossen und versucht sich mit dem Netzwerkserver zu verbinden.
 Beobachtet einkommende Nachrichten im Netzwerkserver
