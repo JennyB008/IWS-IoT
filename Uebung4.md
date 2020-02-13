@@ -7,7 +7,7 @@ Nun sollen eingehenden Daten in einer Datenbank gespeichert werden. Diese ist ü
 
 * Als userId benutzt bitte 'u', gefolgt von eurem NodeRed-Port
   <br/>zB.: 34.89.240.62:1234 hat die userId u1234
-* Unix Timestamps können über die Website [unixtime.de](https://www.unixtime.de/) erstellt werden.
+* Unix Timestamps können über die Website [unixtime.de](https://www.unixtime.de/) erstellt werden. Stellt sicher, dass der UNIX Timestamp in Sekunden angegeben ist.
 
 #### 2. Node-RED
 Erweitert euren Flow, um folgende Funtionalität:
