@@ -1,5 +1,5 @@
 
-### Übung 1 - Sensoren mit Gateway verbinden
+# Übung 1 - Sensoren mit Gateway verbinden
 
 
 Jeder Gruppe beschäftigt sich mit einem Ihr zugewiesenen LoRaWAN-Device.
@@ -12,3 +12,9 @@ Passwort: iwsWS19/20
 Bindet ein Gerät in Applikation “workshop” ein
 
 Beobachtet einkommende Nachrichten im Netzwerkserver
+
+## Geräte
+### Decentlab
+### Elsys Elsys CO2
+### Elsys EMS Door
+### Parametric People Counter
