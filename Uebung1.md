@@ -36,13 +36,10 @@ Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
 Nun muss das Device noch neu gestartet werden. Ruft hierfür einen von uns!
 
 <br/>
-Beobachtet einkommende Nachrichten im Netzwerkserver
 ### Elsys Elsys CO2
 <img src="/images/lora_devices/ambiance_elsys.jpeg" width="200"/>
 <br/>
 Einer von uns wird euch betreuen.
-
-Beobachtet einkommende Nachrichten im Netzwerkserver
 
 
 ### Elsys EMS Door
@@ -61,4 +58,3 @@ Beobachtet einkommende Nachrichten im Netzwerkserver
 * Application Key: 333437394E378804333437394E378804
 
 Das Device startet neu, nachdem es ans Netz angeschlossen und versucht sich mit dem Netzwerkserver zu verbinden.
-Beobachtet einkommende Nachrichten im Netzwerkserver
