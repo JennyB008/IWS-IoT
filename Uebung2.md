@@ -11,7 +11,7 @@ Mache dich mit den verschiedenen Nodes vertraut. Finde heraus wie sie funktionie
 
 ### 3. Beziehe nun die Daten für deinen Flow von einem Websocket
 
-Verbinde dich mit dem Websocket-Endpunkt des Loriot Netzwerkservers und logge die Daten in deiner Node-RED Instanz. Nutze hierfür den 'websocket in' Node und den 'debug' Node. 
+Verbinde dich mit dem Websocket-Endpunkt des Loriot Netzwerkservers und logge die Daten in deiner Node-RED Instanz. Nutze hierfür den 'websocket in' Node und den 'debug' Node. Parse die Nachricht vorher in ein geeignetes Format.
 
 Die Websocket URL findet man auf [LorIoT](https://mvv.loriot.io):
 * Applications
