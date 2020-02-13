@@ -16,5 +16,10 @@ Die Daten (msg.payload.data) liegen als HEX-String vor. Diese müssen an bestimm
 * Visualisiert die Daten in einem geeigneten Chart. 
 
 #### 4. Reporting
-* Erweitert den Flow so, dass ihr wöchentlich einen Report per Email erhaltet, der Daten zusammenfasst (z.b Min/Max/Avg Temperatur). 
+- Erweitert den Flow so, dass ihr wöchentlich einen Report per Email erhaltet, der Daten zusammenfasst (z.b Min/Max/Avg Temperatur). Verwendet folgende Daten, um Emails zu schicken:
+  - Userid: user.iwsstudent@gmail.com
+  - Password:   iwsstudent
+  - Use TLS: ausschalten
+
+
  
