@@ -9,7 +9,7 @@ Netzwerkserver: [LorIoT](https://mvv.loriot.io)
 Email: 1971216@stud.hs-mannheim.de
 Passwort: iwsWS19/20
  
-Bindet ein Gerät in die Applikation 'workshop' ein. Der Netzwerkserver stellt eine Eingabemaske zur Verfügung, um Geräte anzumelden. Alle Geräte sollen ihre Verbindung per OTAA aufnehmen.
+1. Bindet ein Gerät in die Applikation 'workshop' ein. Der Netzwerkserver stellt eine Eingabemaske zur Verfügung, um Geräte anzumelden. Alle Geräte sollen ihre Verbindung per OTAA aufnehmen.
 <br/>
 <br/>
 Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
@@ -20,6 +20,8 @@ Bei einer OTAA Verbindung sind folgende Eingaben notwendig:
 <br/>
 
 ![](/images/loriot_otaa.png)
+
+2. Beobachtet eingehende Nachrichten
 
 ## Geräte
 ### Decentlab
