@@ -16,6 +16,11 @@ Beobachtet einkommende Nachrichten im Netzwerkserver
 ## Geräte
 ### Decentlab
 ![GitHub Logo](/images/lora_devices/ambiance_decentlab.jpeg)
+
+Bindet den Decentlab Ambiance Monitor in den Loriot Netzwerkserver ein. Der Verbindungsaufbau soll mittels OTAA erfolgen.
+EUI:	70B3D57BA0000DE2 
+AppEUI:	70B3D57ED00006B2
+AppKey:	41341EB0C5631CD5F0AECB4D4EE25586
 ### Elsys Elsys CO2
 ![GitHub Logo](/images/lora_devices/ambiance_elsys.jpeg)
 ### Elsys EMS Door
