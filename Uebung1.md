@@ -6,6 +6,7 @@ Jeder Gruppe beschäftigt sich mit einem Ihr zugewiesenen LoRaWAN-Device.
 
 Netzwerkserver: [LorIoT](https://mvv.loriot.io)
 
+Email: 1971216@stud.hs-mannheim.de
 Passwort: iwsWS19/20
  
 Bindet ein Gerät in Applikation “workshop” ein
