@@ -33,7 +33,7 @@ Beobachtet eingehende Nachrichten, nachdem ihr das Device eingebunden habt.
 * Application EUI: 70B3D57ED00006B2
 * Application Key: 41341EB0C5631CD5F0AECB4D4EE25586
 
-Nun muss das Device noch neu gestartet werden. Ruft hierfür einen von uns.
+Nun muss das Device noch neu gestartet werden. Ruft hierfür einen von uns. Die Dokumentation des Devices findet ihr [hier](Decentlab-DL-IAM-datasheet.pdf)
 
 <br/>
 
